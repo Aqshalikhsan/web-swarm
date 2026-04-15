@@ -4,9 +4,6 @@ Panduan lengkap memahami **Docker Swarm**, fungsi, cara kerja, contoh kasus deta
 
 * **WSL Ubuntu**
 * **Debian VM**
-
-Dokumen ini siap di-copy ke `README.md` GitHub.
-
 ---
 
 # Apa Itu Docker Swarm?
@@ -457,10 +454,4 @@ Docker Swarm cocok untuk belajar dan production skala kecil-menengah karena:
 * Self-healing
 * Scaling cepat
 
-Jika project mulai besar dan kompleks, bisa lanjut ke Kubernetes.
-
 ---
-
-# Author
-
-Made for learning Docker Swarm with WSL + Debian VM 🚀
